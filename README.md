@@ -3,11 +3,11 @@
 ### <p align="center">Check out my projects</p>
 ---
 <p align="center"> <img src="https://via.placeholder.com/350x150"> </p>
-<p align="center">
-  <a href="https://github.com/piciakk/piciakk" title="Redirect to homepage">
+<!--<p align="center">-->
+  <a align="center" href="https://github.com/piciakk/piciakk" title="Redirect to homepage">
     <img src="https://via.placeholder.com/350x150" alt="homepage" />
   </a>
-</p>
+<!--</p>-->
 <!--
 **PiciAkk/piciakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
