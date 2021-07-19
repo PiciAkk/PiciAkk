@@ -3,7 +3,7 @@
 ### <p align="center">Check out my projects</p>
 ---
 <p align="center"> <img src="https://via.placeholder.com/350x150"> </p>
-<div style="text-align:center"> <img src="https://via.placeholder.com/350x150"> </div>
+[<img src="https://via.placeholder.com/350x150">](http://google.com.au/)
 <!--
 **PiciAkk/piciakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
