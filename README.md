@@ -2,7 +2,7 @@
 # <p align="center">Welcome to my profile!</p>
 ### <p align="center">Check out my projects</p>
 ---
-asd
+<p align="center"> ![ROBIN](https://via.placeholder.com/350x150) </p>
 <!--
 **PiciAkk/piciakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
