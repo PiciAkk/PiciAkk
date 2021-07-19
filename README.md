@@ -1,6 +1,6 @@
 ![My logo](https://github.com/PiciAkk/piciakk/blob/main/images/myLogo.png?raw=true)
-##<p align="center">Welcome to my profile!</p>
-###<p align="center">Check out my projects</p>
+<p align="center">Welcome to my profile!</p>
+<p align="center">Check out my projects</p>
 ---
 project1
 <!--
