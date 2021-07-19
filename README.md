@@ -11,7 +11,7 @@
     <img alt="LOLHUB logo" width="96" height="96" src="https://github.com/PiciAkk/piciakk/blob/main/images/lolhub.ico?raw=true">
   </a>
   <a href="https://github.com/robin4" title="Redirect to ROBIN4 repository">
-    <img alt="ROBIN4" width="200" height="200" src="https://github.com/PiciAkk/piciakk/blob/main/images/robin.png?raw=true">
+    <img alt="ROBIN4" width="90" height="90" src="https://github.com/PiciAkk/piciakk/blob/main/images/robin.png?raw=true">
   </a>
 </p>
 <!--
