@@ -1,11 +1,11 @@
-<p align="center"> <img src="https://github.com/PiciAkk/piciakk/blob/main/images/myLogo.png?raw=true"> </p>
+<p align="center"> <img alt="My Logo" src="https://github.com/PiciAkk/piciakk/blob/main/images/myLogo.png?raw=true"> </p>
 
 # <p align="center">Welcome to my profile!</p>
 ### <p align="center">Check out my projects</p>
 ---
 <p align="center">
   <a href="https://github.com/youtube-blue/youtube-blue-desktop" title="Redirect to YouTube Blue repository">
-    <img src="https://github.com/PiciAkk/piciakk/blob/main/images/ytbluelogo.png?raw=true" alt="YouTube Blue logo">
+    <img alt="YouTube Blue Logo" width="251" height="177" src="https://github.com/PiciAkk/piciakk/blob/main/images/ytbluelogo.png?raw=true" alt="YouTube Blue logo">
   </a>
 </p>
 <!--
