@@ -1,5 +1,8 @@
-### Hi there 👋
-
+![My logo](https://github.com/PiciAkk/piciakk/blob/main/images/myLogo.png?raw=true)
+#<center><span style="color: blue; font-family: 'Arial';">Welcome to my profile!</span></center>
+###<center><span style="font-family: 'Arial';">Check out my projects</span></center>
+---
+project1
 <!--
 **PiciAkk/piciakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
