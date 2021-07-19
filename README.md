@@ -4,8 +4,11 @@
 ### <p align="center">Check out my projects</p>
 ---
 <p align="center">
-  <a href="https://github.com/youtube-blue/youtube-blue-desktop" title="Redirect to YouTube Blue repository">
-    <img alt="YouTube Blue Logo" width="125.5" height="88.5" src="https://github.com/PiciAkk/piciakk/blob/main/images/ytbluelogo.png?raw=true" alt="YouTube Blue logo">
+  <a href="https://github.com/youtube-blue" title="Redirect to YouTube Blue organization">
+    <img alt="YouTube Blue Logo" width="125.5" height="88.5" src="https://github.com/PiciAkk/piciakk/blob/main/images/ytbluelogo.png?raw=true">
+  </a>
+  <a href="https://github.com/lolhub" title="Redirect to LOLHUB organization ">
+    <img alt="LOLHUB logo" width="125.5" height="88.5" src="https://github.com/PiciAkk/piciakk/blob/main/images/favicon.ico?raw=true" >
   </a>
   <a href="https://github.com/youtube-blue/youtube-blue-desktop" title="Redirect to YouTube Blue repository">
     <img alt="YouTube Blue Logo" width="125.5" height="88.5" src="https://github.com/PiciAkk/piciakk/blob/main/images/ytbluelogo.png?raw=true" alt="YouTube Blue logo">
