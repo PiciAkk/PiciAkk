@@ -14,6 +14,9 @@
     <img alt="ROBIN4" width="90" height="90" src="https://github.com/PiciAkk/piciakk/blob/main/images/robin.png?raw=true">
   </a>
 </p>
+---
+### <p align="center">Check out my stats</p>
+![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piciakk&theme=)
 <!--
 **PiciAkk/piciakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
