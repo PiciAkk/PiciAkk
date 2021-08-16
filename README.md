@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <p align="center"> <img alt="My Logo" src="https://github.com/PiciAkk/piciakk/blob/main/images/myLogo.png?raw=true"> </p>
 
 # <p align="center">Welcome to my profile!</p>
